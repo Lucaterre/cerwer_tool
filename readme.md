@@ -2,7 +2,7 @@
 
 ## Description 
 
-Cerwer_tool est un petit programme permettant de calculer le WER (Word Error Rate), le CER (Character Error Rate) et de produire un rapport de type : 
+Cerwer_tool est un petit programme permettant de calculer le WER (Word Error Rate) et le CER (Character Error Rate) entre phrase de référence (transcription ground truth) et une phrase issue d'un modèle de transcription; et de produire un rapport de type : 
 
 ![Capture](capture_CERWER.png)
 
